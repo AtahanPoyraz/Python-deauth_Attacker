@@ -1,5 +1,5 @@
-# Python-DOT_Attacker
-with this program you can make a DOT attack using python for training
+# Python-deauth_Attacker
+with this program you can make a deauth attack using python for training
 
 
 Hello everyone;
